@@ -1,4 +1,5 @@
 array_multiply
 correlation_matrix
+matrix_multiply
 *.o
 *.exe
