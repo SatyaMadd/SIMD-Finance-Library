@@ -1,5 +1,6 @@
 array_multiply
 correlation_matrix
 matrix_multiply
+monte_carlo
 *.o
 *.exe
