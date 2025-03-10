@@ -3,5 +3,6 @@ correlation_matrix
 matrix_multiply
 monte_carlo
 correlation_engine
+simd_random
 *.o
 *.exe
