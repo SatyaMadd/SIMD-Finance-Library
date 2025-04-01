@@ -4,5 +4,6 @@ matrix_multiply
 monte_carlo
 correlation_engine
 simd_random
+black_scholes
 *.o
 *.exe
