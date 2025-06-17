@@ -6,5 +6,6 @@ correlation_engine
 simd_random
 black_scholes
 memory_pool
+portfolio_optimization
 *.o
 *.exe
